@@ -1,0 +1,4 @@
+.navItem a.active {
+    border-bottom: 2px solid #2EA990;
+    padding: 2px;
+}
